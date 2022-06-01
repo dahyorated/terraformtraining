@@ -16,3 +16,4 @@ All training materials goes in here
 
 ` az account set -subscription "<subscription_id_or_subscription_name>" `
 
+.
